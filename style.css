@@ -1,0 +1,43 @@
+/* Copyright ©  Maresal Programming & Batuhan Olgaç  */
+
+#label{
+    border-image: url("icons/covidx.png");
+}
+
+#InstagramBtn{
+    background-color: transparent;
+    border:0px;
+    image: url("icons/instagram.png");
+}
+
+#FacebookBtn{
+    background-color: transparent;
+    border:0px;
+    image: url("icons/Facebook.png");
+}
+
+#GithubBtn{
+    background-color: transparent;
+    border:0px;
+    image: url("icons/Github.png");
+}
+
+#InstagramBtn:hover{
+    image: url("icons/instagramhover.png");
+}
+
+#GithubBtn:hover{
+    image: url("icons/GithubHover.png");
+}
+
+#FacebookBtn:hover{
+    image: url("icons/FacebookHover.png");
+}
+
+#LogoLbl{
+    image: url("icons/covid-19.png");
+}
+
+#IconLbl{
+    image: url("icons/marelogo.ico");
+}
