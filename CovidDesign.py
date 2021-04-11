@@ -1054,7 +1054,7 @@ class Ui_MainWindow(object):
 "\n"
 "Programımızda kullandığımız covid19 verilerini tümü https://news.google.com/covid19 adresinden alınmıştır.\n"
 "\n"
-"Programın tüm tasarımı Maresal Programming\'e aittir."))
+"Programın tüm tasarımı ve kodları Maresal Programming\'e aittir."))
         self.GithubLbl.setText(_translate("MainWindow", "IMaresaLI"))
         self.FaceLbl.setText(_translate("MainWindow", "maresalprogramming"))
         self.instaLbl.setText(_translate("MainWindow", "@maresalp"))
