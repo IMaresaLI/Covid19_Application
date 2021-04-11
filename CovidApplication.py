@@ -95,7 +95,7 @@ class covidApp(QtWidgets.QMainWindow):
         self.ui.DVefatArtisLbl.setText("Dün bildirilen vefat sayısı : "+ trVeri[-1][4])
         self.ui.DDozSayiLbl.setText(trVeri[-1][5])
         self.ui.DDozArtisLbl.setText("Dün bildirilen doz sayısı  : "+ trVeri[-1][6])
-        self.ui.DToplamSayiLbl.setText(trVeri[-1][7])
+        self.ui.DAsiOlanSayiLbl.setText(trVeri[-1][7])
         self.ui.DAsiOlanYuzdeLbl.setText("Nüfus yüzdesi : "+trVeri[-1][8])
 
         self.ui.DVakaPrgLbl.setText("Toplam Vaka Sayısı : "+trVeri[-1][1])
